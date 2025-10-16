@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Temane
+# 👋 Salut, moi c'est Te, Temane, Othmane, comme vous le souhaitez!
 
 Étudiant à **42 Paris**, passionné par la programmation depuis **mai 2024**.  
 🌐 Découvrez mon portfolio : [bouhoura-othmane.xyz](https://bouhoura-othmane.xyz)
